@@ -16,3 +16,4 @@
 -   Extract the game.dat file, you will have a "game" file generated with no file extension
 -   Run the script in the same directory as the "game" file
 -   Move the script-generated game.dat into the game# folder you chose earlier
+-   Now you can play the game with extra items
