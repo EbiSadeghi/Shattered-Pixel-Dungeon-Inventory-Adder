@@ -21,6 +21,7 @@ HornOfPlenty = '{"cursedKnown":true,"quantity":1,"charge":0,"levelKnown":true,"c
 
 WaterSkin = '"__className":"com.shatteredpixel.shatteredpixeldungeon.items.Waterskin","kept_lost":false}'
 
+SkeletonKey = '{"cursedKnown":true,"quantity":1,"charge":6,"levelKnown":true,"cursed":false,"level":8,"partialcharge":0,"__className":"com.shatteredpixel.shatteredpixeldungeon.items.artifacts.SkeletonKey","exp":6,"kept_lost":false}'
 
 def main() -> None:
 	items_to_add = [Meatpie, ScrollOfUpgrade, ScrollOfIdentify, PotionOfHealing, WandOfLivingEarth, WandOfBlastWave, MissileShuriken, RingOfWealth, RingOfEnergy]
